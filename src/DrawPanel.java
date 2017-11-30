@@ -98,6 +98,7 @@ public class DrawPanel extends JPanel {
             index--;
             repaint();
          }
+         
       }
 
       @Override
